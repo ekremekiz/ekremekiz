@@ -13,7 +13,7 @@
   <br>
   🔬 I'm currently studying my master's degree at Firat University Software Engineering Department.
   <br>
-  💻 📚 I am currently doing research in the field of artificial intelligence and deep learning. <br>I enjoy learning new things and improving myself in this area.
+  💻 I am currently doing research in the field of artificial intelligence and deep learning. <br>📚 I enjoy learning new things and improving myself in this area.
 </p>
 
 <hr>
@@ -39,10 +39,10 @@
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ekremekiz&show_icons=true&theme=gotham">
+    <img height=175 align="left" src="https://github-readme-stats.vercel.app/api?username=ekremekiz&show_icons=true&theme=gotham">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekremekiz&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  <img height=175 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekremekiz&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
 
