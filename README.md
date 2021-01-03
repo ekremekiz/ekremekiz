@@ -28,8 +28,8 @@
   <code><img title="Anaconda" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/anaconda.png"></code>
   <code><img title="PyCharm" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/pycharm.png"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/problemSolving.png"></code>
-  <code><img title="C#" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/master/main/IMAGES/cSharp.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/master/main/IMAGES/git-original.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/cSharp.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/dotnetcore.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/visualstudio.png"></code>
