@@ -1,11 +1,8 @@
-### Hi there 👋
-<h3 align="center">Hello there, I'm Ekrem 👋</h3>
+<h3 align="center">Hi there, I'm Ekrem 👋</h3>
 <h5 align="center">
-  #<code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.linkedin.com/in/ekremekiz/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/ekremekz" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/8290052/ekrem-ekiz" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
-  #<code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -54,9 +51,9 @@
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="center" href="https://github.com/ekremekiz/HackerRank-30-Days-of-Code" title="HackerRank 30 Days of Code"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ekremekiz&repo=HackerRank-30-Days-of-Code&theme=gotham"></a>
+  <a align="left" href="https://github.com/ekremekiz/HackerRank-30-Days-of-Code" title="HackerRank 30 Days of Code"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ekremekiz&repo=HackerRank-30-Days-of-Code&theme=gotham"></a>
 </p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/ekremekiz?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 
