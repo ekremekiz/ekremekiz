@@ -11,9 +11,10 @@
   <br>
   🎓 I graduated from Fırat University Software Engineering Department
   <br>
-  🔬 I'm currently studying my master's degree at Fırat University, Institute of Science and Technology, Department of Software Engineering
+  🔬 I'm currently studying my master's degree at Firat University Software Engineering Department.
   <br>
-  💻 📚 I am currently doing research in the field of artificial intelligence and deep learning. I enjoy learning new things and improving myself in this area.
+  💻 📚 I am currently doing research in the field of artificial intelligence and deep learning.
+  I enjoy learning new things and improving myself in this area.
 </p>
 
 <hr>
