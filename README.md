@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Ekrem 👋</h3>
 <h5 align="center">
-  <code><a href="mailto: ekremekz@gmail.com" title="Send E-Mail"><img width="22" src="https://github.com/ekremekiz/ekremekiz/tree/main/IMAGES/gmail.svg"> Contact</a></code>
+  <code><a href="mailto: ekremekz@gmail.com" title="Send E-Mail"><img width="22" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/gmail.svg"> Contact</a></code>
   <code><a href="https://www.linkedin.com/in/ekremekiz/" title="LinkedIn Profile"><img width="22" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/ekremekz" title="HackerRank Profile"><img width="22" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/8290052/ekrem-ekiz" title="Stack Overflow Profile"><img width="22" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/stackoverflow.svg"> Stack Overflow</a></code>
@@ -27,13 +27,13 @@
   <code><img title="Deep Learning" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/deep-learning.svg"></code>
   <code><img title="Anaconda" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/anaconda.png"></code>
   <code><img title="PyCharm" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/pycharm.png"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/master/images/problemSolving.png"></code>
+  <code><img title="C#" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/master/images/cSharp.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/master/images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/master/images/dotnetcore.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/master/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/master/images/visualstudio.png"></code>
+  <code><img title="Java" height="25" src="https://github.com/ekremekiz/ekremekiz/blob/master/images/java-original.svg"></code>
 </p>
 
 <hr>
