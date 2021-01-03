@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Ekrem 👋</h3>
 <h5 align="center">
-  <code><a href="mailto: ekremekz@gmail.com" title="Send E-Mail"><img width="22" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/gmail.svg"> Contact</a></code>
+  <code><a href="mailto: ekremekz@gmail.com" title="Send E-Mail"><img width="22" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/gmail.png"> Contact</a></code>
   <code><a href="https://www.linkedin.com/in/ekremekiz/" title="LinkedIn Profile"><img width="22" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/ekremekz" title="HackerRank Profile"><img width="22" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/8290052/ekrem-ekiz" title="Stack Overflow Profile"><img width="22" src="https://github.com/ekremekiz/ekremekiz/blob/main/IMAGES/stackoverflow.svg"> Stack Overflow</a></code>
