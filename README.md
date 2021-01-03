@@ -53,7 +53,7 @@
 <p width="100%" align="center">
   <a align="left" href="https://github.com/ekremekiz/HackerRank-30-Days-of-Code" title="HackerRank 30 Days of Code"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ekremekiz&repo=HackerRank-30-Days-of-Code&theme=gotham"></a>
 </p>
-<br><br><br><br><br><br>
+<br><br>
 <h4 align="center"><a href=https://github.com/ekremekiz?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 
